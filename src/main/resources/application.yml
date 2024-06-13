@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+mail:
+  host: smtp.exmail.qq.com
+  port: 465
+  auth: true
+  ## edit this to your own email
+  from: CaYyon@example.com
+  pass: your_password
+  ##############
+  starttlsEnable: true
